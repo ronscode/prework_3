@@ -1,5 +1,3 @@
-var myHeading = document.querySelector('h1');
-myHeading.textContent = 'Hello world!';
 document.querySelector('img').onclick = function() {
     alert('I am not a robot, promise.');
 }
